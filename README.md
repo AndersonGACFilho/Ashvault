@@ -1,5 +1,14 @@
 # Ashvault
 
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+[![Documentation](https://img.shields.io/badge/contents-design%20documentation-526CFE.svg)](#start-here)
+[![54 documents](https://img.shields.io/badge/GDD-54%20documents-0A9EDC.svg)](#start-here)
+[![Unity](https://img.shields.io/badge/target-Unity-000000.svg?logo=unity&logoColor=white)](https://unity.com/)
+[![VR + Flatscreen](https://img.shields.io/badge/platform-VR%20%2B%20Flatscreen-8A2BE2.svg)](#)
+[![Genre: Dungeon Crawler](https://img.shields.io/badge/genre-First--person%20Dungeon%20Crawler-FF7F50.svg)](#)
+[![Solo developed](https://img.shields.io/badge/team-solo-6A5ACD.svg)](#)
+
+
 Ashvault is a first-person VR/Flatscreen dungeon crawler design project about vertical exploration, recoverable risk, closed-loop economy, systemic knowledge, physical crafting, and emergent progression.
 
 Ashvault is solo developed.
